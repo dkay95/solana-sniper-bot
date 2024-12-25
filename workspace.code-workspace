@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://localhost:30640/workspace"
+		}
+	],
+	"remoteAuthority": "localhost:30640",
+	"settings": {}
+}
